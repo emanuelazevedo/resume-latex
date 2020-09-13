@@ -1,0 +1,115 @@
+{
+  "selectedTemplate": 7,
+  "headings": {
+    "projects": "",
+    "awards": "",
+    "education": "Educação",
+    "work": "Experiência Profissional",
+    "skills": "Liguangens de Programação e Frameworks"
+  },
+  "basics": {
+    "name": "Emanuel Azevedo",
+    "email": "emanuelf.azevedo@gmail.com",
+    "phone": "910028599",
+    "location": {
+      "address": "Figueiredo"
+    }
+  },
+  "education": [
+    {
+      "institution": "Universidade de Aveiro",
+      "location": "Aveiro",
+      "area": "Comunicação Multimédia",
+      "studyType": "Mestrado",
+      "startDate": "Set 2019",
+      "endDate": "Presente"
+    },
+    {
+      "institution": "Universidade de Aveiro",
+      "location": "Aveiro",
+      "studyType": "Cadeiras Isoladas",
+      "area": "Comunicação Multimédia",
+      "startDate": "Set 2018",
+      "endDate": "Jul 2019"
+    },
+    {
+      "institution": "Escola Superior de Tecnologia e Gestão de Águeda",
+      "location": "Águeda",
+      "studyType": "Licenciatura",
+      "area": "Tecnologias da Informação",
+      "startDate": "Set 2015",
+      "endDate": "Jul 2018"
+    }
+  ],
+  "work": [
+    {
+      "company": "BestContent",
+      "location": "Arouca",
+      "position": "Fullstack Developer",
+      "website": "",
+      "startDate": "Nov 2019",
+      "endDate": "Presente",
+      "highlights": [
+        "Desenvolvimento de uma aplicação web em Vue e Laravel",
+        "Gestão de servidores da aplicação web"
+      ]
+    },
+    {
+      "highlights": [
+        "Desenvolvimento de uma aplicação web em AngularJS e Symfony",
+        "Teste à mesma aplicação com Selenium e Java"
+      ],
+      "company": "Digitalmente",
+      "position": "Fullstack Developer & Tester",
+      "location": "Estarreja",
+      "startDate": "Fev 2018",
+      "endDate": "Maio 2018"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "React",
+        "Vue",
+        "Angular"
+      ],
+      "name": "Frameworks Frontend"
+    },
+    {
+      "keywords": [
+        "Laravel",
+        "Symfony",
+        "Express"
+      ],
+      "name": "Frameworks Backend"
+    }
+  ],
+  "projects": [
+    {
+      "name": "",
+      "description": "",
+      "url": "",
+      "keywords": [
+        ""
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
